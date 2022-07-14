@@ -4,7 +4,6 @@
    #will be the refferd as commit
 
 echo "HELLO WORLD"
-hi hello
 
 echo "Hai"
 echo "Hello"
