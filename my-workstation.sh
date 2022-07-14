@@ -5,3 +5,8 @@
 
 echo "HELLO WORLD"
 hi hello
+
+echo "Hai"
+echo "Hello"
+
+echo "Hai\nHello"
