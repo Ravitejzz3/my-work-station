@@ -10,4 +10,4 @@ echo "Hai"
 echo "Hello"
 
 echo "Hai\nHello"
-echo -e "Hai\nHello"
+echo -e "Hai\n\tHello"
