@@ -1,11 +1,11 @@
 frontend:
-    sh components/frontend.sh 
+    sh components/frontend.sh
 
 mongobd:
-    sh conponents/mongodb.sh 
+    sh conponents/mongodb.sh
 
 catalogue:
-    sh components/catalogue.sh 
+    sh components/catalogue.sh
 
 cart:
     sh components/cart.sh
