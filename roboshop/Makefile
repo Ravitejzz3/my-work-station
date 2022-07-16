@@ -1,17 +1,17 @@
-#!/bin/bash
-
-
 frontend:
     sh components/frontend.sh
 
-mongodb:
-    sh components/mongodb.sh
+mongobd:
+    sh conponents/mongodb.sh
 
 catalogue:
-    sh components/catalouge.sh
+    sh components/catalogue.sh
 
 cart:
-    sh components/cart.sh
+    sh components/cart.sh    
+
+
+
 
 
 
