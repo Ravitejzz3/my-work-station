@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 frontend:
     sh components/frontend.sh
 
